@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yavuzyunusoglu@posta.mu.edu.tr**
   
-- 🎨 My Portfolio  **yavuzyunusoglu@posta.mu.edu.tr**
+- 🎨 My Portfolio  **[yavuzyunusoglu.github.io/Portfolio](https://yavuzyunusoglu.github.io/Portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
