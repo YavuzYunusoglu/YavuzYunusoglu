@@ -5,8 +5,6 @@
 
 - 🔭 I'm currently working on **School proejects**
 
-- 🌱 I'm currently learning **Python**
-
 - 📫 How to reach me **yavuzyunusoglu@posta.mu.edu.tr**
   
 - 🎨 My Portfolio  **[yavuzyunusoglu.github.io/Portfolio](https://yavuzyunusoglu.github.io/Portfolio/)**
