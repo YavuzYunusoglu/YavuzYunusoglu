@@ -1,9 +1,9 @@
 ![MasterHead](https://i.hizliresim.com/tgjcu0g.png)
-# Hi 👋, I'm YavuzYunusoglu
+# Hi 👋, I'm Yavuz Yunusoglu
 
 ### Game Developer
 
-- 🔭 I'm currently working on **school proejects**
+- 🔭 I'm currently working on **school projects**
 
 - 📫 How to reach me **yavuzyunusoglu@posta.mu.edu.tr**
   
