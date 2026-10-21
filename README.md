@@ -3,7 +3,7 @@
 
 ### Game Developer
 
-- 🔭 I'm currently working on **School proejects**
+- 🔭 I'm currently working on **school proejects**
 
 - 📫 How to reach me **yavuzyunusoglu@posta.mu.edu.tr**
   
